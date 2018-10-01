@@ -113,7 +113,6 @@ NSString * const kLogFile = @"/results.plist";
 #pragma mark - Release
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 
